@@ -1,0 +1,33 @@
+{
+    "name": "AdeptTravel/AdeptCRM",
+    "type": "library",
+    "description": "A Consumer Relationship Management system for travel agencies, could be modified to work with any business.  Based on the AdeptFramework",
+    "keywords": [
+        "php",
+        "framework",
+        "crm",
+        "travel agency"
+    ],
+    "homepage": "https://adept.travel/company/technology/adeptcrm",
+    "license": "BSD-3-Clause ",
+    "authors": [
+        {
+            "name": "Brandon J. Yaniz"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/AdeptTravel/AdeptFramework"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.0",
+        "AdeptTravel/AdeptFramework": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "AdeptTravel\\AdeptCRM\\": "src/"
+        }
+    }
+}
