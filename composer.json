@@ -1,14 +1,13 @@
 {
-    "name": "adepttraveler/adeptcrm",
+    "name": "adepttravel/adeptcrm",
     "type": "library",
-    "description": "A Consumer Relationship Management system for travel agencies, could be modified to work with any business.  Based on the AdeptFramework",
+    "description": "A PHP framework for creating content relationship management systems.",
     "keywords": [
         "php",
         "framework",
-        "crm",
-        "travel agency"
+        "crm"
     ],
-    "homepage": "https://adept.travel/company/technology/adeptcrm",
+    "homepage": "https://adept.travel/company/technology/adeptframework",
     "license": "BSD-3-Clause ",
     "authors": [
         {
@@ -18,7 +17,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/adepttravel/adeptcrm"
+            "url": "https://github.com/adepttravel/adeptframework"
         }
     ],
     "require": {
