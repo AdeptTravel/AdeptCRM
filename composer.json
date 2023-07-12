@@ -18,12 +18,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/AdeptTravel/AdeptFramework"
+            "url": "https://github.com/adepttravel/adeptframework"
         }
     ],
     "require": {
         "php": ">=8.2.0",
-        "AdeptTravel/AdeptFramework": "dev-master"
+        "adepttravel/adeptframework": "dev-main"
     },
     "autoload": {
         "psr-4": {
