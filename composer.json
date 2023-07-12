@@ -1,5 +1,5 @@
 {
-    "name": "AdeptTravel/AdeptCRM",
+    "name": "adepttraveler/adeptcrm",
     "type": "library",
     "description": "A Consumer Relationship Management system for travel agencies, could be modified to work with any business.  Based on the AdeptFramework",
     "keywords": [
